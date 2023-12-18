@@ -1,0 +1,8 @@
+.liveshow{
+    height: 225%;
+}
+@media (max-width: 650px){
+    .liveshow{
+        height: 92%;
+    }
+}
